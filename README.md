@@ -5,3 +5,6 @@
 - [JavaScript30 網站](https://javascript30.com/)
 - [作者的 repo](https://github.com/wesbos/JavaScript30)
 - [wesbos](https://github.com/wesbos)
+
+## Demo
+- [Day01 - JS Drum Kit](https://charlieewang.github.io/JS30/01%20-%20JavaScript%20Drum%20Kit/index-START.html)
