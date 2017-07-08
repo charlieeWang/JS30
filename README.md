@@ -1,4 +1,4 @@
-#JavaScript30
+# JavaScript30
 
 之前看到的 JavaScript 30 天挑戰。免費提供了完整的教學影片還有練習文件。
 
